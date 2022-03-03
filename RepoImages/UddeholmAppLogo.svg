@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="234px" viewBox="0 0 240 234" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>HTCR logotyp</title>
+    <defs>
+        <path d="M61.8037149,97.7072611 C55.9208412,99.6039158 50.0408842,97.4650092 46.2754951,93.653974 C42.049276,89.3643437 41.5709461,84.1263861 41.3317812,78.1616729 L41.3317812,22.2812615 L71.9973904,0 L71.9973904,84.1263861 C71.4198946,90.2210881 67.6807553,96.0321782 61.8037149,97.7072611 Z" id="path-1"></path>
+        <filter x="-3.3%" y="-1.0%" width="106.5%" height="102.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M46.0421634,108.413611 C55.4483447,113.187745 68.6228317,110.319129 75.9144451,103.414951 C80.8464924,98.4221995 84.1948012,91.5032503 84.6643811,83.8841342 L84.6643811,22.2812615 C94.5401423,15.3593581 104.118406,6.65897156 114,0 L114,87.9285584 C111.515018,108.156588 99.8951031,124.860148 82.9668935,133.903232 C68.1415852,142.482493 43.2217674,142.006852 28.8718723,132.479264 C13.816149,123.660706 2.35664944,107.465284 0,89.1220919 L0,22.2812615 L29.3385355,2.01482636 L29.3385355,85.7837432 C30.7443586,95.8017435 37.344727,104.372141 46.0421634,108.413611 Z" id="path-3"></path>
+        <filter x="-0.9%" y="-0.7%" width="101.8%" height="101.4%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="1" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="HTCR-logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HTCR-logotyp">
+            <path d="M41.8945,7.4536 C13.7617,7.4536 7.2695,24.1983 7.2695,52.35 L7.3828,188.9868 C7.3828,217.1488 16.164,226.5465 44.2851,226.5465 L195.0488,226.5465 C223.1679,226.5465 232.6172,217.1489 232.6172,188.9972 L232.6172,47.1772 C232.6172,19.0255 222.1172,7.4536 193.9961,7.4536 C193.9961,7.4536 41.8945,7.4536 41.8945,7.4536 Z" id="Path" fill="#001D26" fill-rule="nonzero"></path>
+            <path d="M0,43.05 L0,191.22 C0,214.85 18.2109,234 41.8789,234 L197.1406,234 C220.8086,234 240,214.85 240,191.22 L240,42.78 C240,19.15 220.8086,0 197.1406,0 L41.8789,0 C18.2109,0 0,19.15 0,42.78 L0,43.05 Z M194.0391,10.1341566 C213.1543,10.104 229.8907,25.8213 229.8907,44.9059 L229.8907,187.2088 C229.8907,206.2632 214.4141,223.8658 195.3204,223.8658 L44.6798,223.8658 C25.586,223.8658 10.1095,207.6343 10.1095,188.5799 L10.09,46.9223 C10.09,27.8881 25.5548,10.1645 44.6193,10.1341566 L194.0392,10.1341566 L194.0392,10.1341566 L194.0391,10.1341566 Z" id="Shape" fill="#0097D8" fill-rule="nonzero"></path>
+            <g id="Uddeholm-logotyp" transform="translate(63.000000, 47.000000)">
+                <g id="Fill-1">
+                    <use fill="#0097D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                </g>
+                <g id="Fill-2">
+                    <use fill="#0097D8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

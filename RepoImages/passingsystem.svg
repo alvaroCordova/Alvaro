@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1613px" height="557px" viewBox="0 0 1613 557" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>SCADA real-time message-passing system</title>
+    <g id="SCADA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCADA-real-time-message-passing-system" transform="translate(2.000000, 2.000000)">
+            <g id="Group" transform="translate(51.222846, 1.506812)">
+                <rect id="Rectangle" stroke="#1C446F" stroke-width="3.01362398" fill="#ECECEC" x="0" y="0" width="241.048689" height="90.4087193"></rect>
+                <text id="Acquisition" font-family="Avenir-Heavy, Avenir" font-size="30.1362398" font-weight="600" letter-spacing="0.209279453" fill="#442E37">
+                    <tspan x="41.6819526" y="54.1089918">Acquisition</tspan>
+                </text>
+                <path id="Line" d="M67.0419243,89.6553134 L67.041,226.912 L75.0691723,226.912504 L65.5351124,245.912504 L56.0010524,226.912504 L64.028,226.912 L64.0283004,89.6553134 L67.0419243,89.6553134 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+                <path id="Line" d="M175.513834,89.6553134 L175.513,226.912 L183.541082,226.912504 L174.007022,245.912504 L164.472963,226.912504 L172.5,226.912 L172.50021,89.6553134 L175.513834,89.6553134 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+            </g>
+            <g id="Group" transform="translate(155.201635, 305.882834)">
+                <rect id="Rectangle" stroke="#1C446F" stroke-width="3.01362398" fill="#ECECEC" x="0" y="156.708447" width="241.089918" height="90.4087193"></rect>
+                <text id="IBA-loggning" font-family="Avenir-Heavy, Avenir" font-size="30.1362398" font-weight="600" letter-spacing="0.209279453" fill="#442E37">
+                    <tspan x="27.9463396" y="210.817439">IBA loggning</tspan>
+                </text>
+                <path id="Line" d="M67.0531335,-0.753405995 L67.053,136.503 L75.0803815,136.503784 L65.5463215,155.503784 L56.0122616,136.503784 L64.039,136.503 L64.0395095,-0.753405995 L67.0531335,-0.753405995 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+                <path id="Line" d="M175.543597,-0.753405995 L175.543,136.503 L183.570845,136.503784 L174.036785,155.503784 L164.502725,136.503784 L172.529,136.503 L172.529973,-0.753405995 L175.543597,-0.753405995 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+            </g>
+            <g id="Group" transform="translate(509.302452, 305.882834)">
+                <rect id="Rectangle" stroke="#1C446F" stroke-width="3.01362398" fill="#ECECEC" x="0" y="156.708447" width="241.089918" height="90.4087193"></rect>
+                <text id="MES-VBH-apps" font-family="Avenir-Heavy, Avenir" font-size="30.1362398" font-weight="600" letter-spacing="0.209279453" fill="#442E37">
+                    <tspan x="14.2795549" y="210.817439">MES-VBH apps</tspan>
+                </text>
+                <path id="Line" d="M67.0531335,-0.753405995 L67.053,136.503 L75.0803815,136.503784 L65.5463215,155.503784 L56.0122616,136.503784 L64.039,136.503 L64.0395095,-0.753405995 L67.0531335,-0.753405995 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+                <path id="Line" d="M175.543597,-0.753405995 L175.543,136.503 L183.570845,136.503784 L174.036785,155.503784 L164.502725,136.503784 L172.529,136.503 L172.529973,-0.753405995 L175.543597,-0.753405995 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+            </g>
+            <g id="Group" transform="translate(863.403270, 305.882834)">
+                <rect id="Rectangle" stroke="#1C446F" stroke-width="3.01362398" fill="#ECECEC" x="0" y="156.708447" width="241.089918" height="90.4087193"></rect>
+                <text id="MES-modules" font-family="Avenir-Heavy, Avenir" font-size="30.1362398" font-weight="600" letter-spacing="0.209279453" fill="#442E37">
+                    <tspan x="88.1756449" y="190.817439">MES </tspan>
+                    <tspan x="59.865996" y="231.817439">modules</tspan>
+                </text>
+                <path id="Line" d="M67.0531335,-0.753405995 L67.053,136.503 L75.0803815,136.503784 L65.5463215,155.503784 L56.0122616,136.503784 L64.039,136.503 L64.0395095,-0.753405995 L67.0531335,-0.753405995 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+                <path id="Line" d="M175.543597,-0.753405995 L175.543,136.503 L183.570845,136.503784 L174.036785,155.503784 L164.502725,136.503784 L172.529,136.503 L172.529973,-0.753405995 L175.543597,-0.753405995 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+            </g>
+            <g id="Group" transform="translate(1217.504087, 305.882834)">
+                <rect id="Rectangle" stroke="#1C446F" stroke-width="3.01362398" fill="#ECECEC" x="0" y="156.708447" width="241.089918" height="90.4087193"></rect>
+                <text id="DNA" font-family="Avenir-Heavy, Avenir" font-size="30.1362398" font-weight="600" letter-spacing="0.209279453" fill="#442E37">
+                    <tspan x="86.674337" y="210.817439">DNA</tspan>
+                </text>
+                <path id="Line" d="M67.0531335,-0.753405995 L67.053,136.503 L75.0803815,136.503784 L65.5463215,155.503784 L56.0122616,136.503784 L64.039,136.503 L64.0395095,-0.753405995 L67.0531335,-0.753405995 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+                <path id="Line" d="M175.543597,-0.753405995 L175.543,136.503 L183.570845,136.503784 L174.036785,155.503784 L164.502725,136.503784 L172.529,136.503 L172.529973,-0.753405995 L175.543597,-0.753405995 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+            </g>
+            <path d="M15.0681199,247.117166 L1588.17984,247.117166 C1578.13442,256.911444 1573.11172,266.705722 1573.11172,276.5 C1573.11172,286.294278 1578.13442,296.088556 1588.17984,305.882834 L15.0681199,305.882834 C5.02270663,296.088556 0,286.294278 0,276.5 C0,266.705722 5.02270663,256.911444 15.0681199,247.117166 Z" id="Rectangle" stroke="#1C446F" stroke-width="4" fill="#ECECEC"></path>
+            <text id="SCADA-MESSAGE-PASSIN" font-family="Avenir-Black, Avenir" font-size="30.1362398" font-weight="700" letter-spacing="0.209279453" fill="#442E37">
+                <tspan x="403.031188" y="286.158038">SCADA MESSAGE-PASSING SYSTEM AND DATABASE</tspan>
+            </text>
+            <ellipse id="Oval" stroke="#1C446F" stroke-width="4" fill="#D8D8D8" cx="1590.69346" cy="276.5" rx="17.581744" ry="28.889646"></ellipse>
+            <g id="Group" transform="translate(355.607629, 0.000000)">
+                <rect id="Rectangle" stroke="#1C446F" stroke-width="3.01362398" fill="#ECECEC" x="0" y="0" width="265.19891" height="90.4087193"></rect>
+                <text id="Data-processing" font-family="Avenir-Heavy, Avenir" font-size="30.1362398" font-weight="600" letter-spacing="0.209279453" fill="#442E37">
+                    <tspan x="18.2148455" y="55.6158038">Data processing</tspan>
+                </text>
+                <path id="Line" d="M79.1076294,91.1621253 L79.107,228.419 L87.1348774,228.419316 L77.6008174,247.419316 L68.0667575,228.419316 L76.094,228.419 L76.0940054,91.1621253 L79.1076294,91.1621253 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+                <path id="Line" d="M187.598093,91.1621253 L187.598,228.419 L195.625341,228.419316 L186.091281,247.419316 L176.557221,228.419316 L184.584,228.419 L184.584469,91.1621253 L187.598093,91.1621253 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+            </g>
+            <g id="Group" transform="translate(699.160763, 1.506812)">
+                <rect id="Rectangle" stroke="#1C446F" stroke-width="3.01362398" fill="#ECECEC" x="0" y="0" width="241.089918" height="90.4087193"></rect>
+                <text id="Supervisory-control" font-family="Avenir-Heavy, Avenir" font-size="30.1362398" font-weight="600" letter-spacing="0.209279453" fill="#442E37">
+                    <tspan x="37.5438949" y="36.027248">Supervisory</tspan>
+                    <tspan x="70.9013639" y="77.027248">control</tspan>
+                </text>
+                <path id="Line" d="M67.0531335,89.6553134 L67.053,226.912 L75.0803815,226.912504 L65.5463215,245.912504 L56.0122616,226.912504 L64.039,226.912 L64.0395095,89.6553134 L67.0531335,89.6553134 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+                <path id="Line" d="M175.543597,89.6553134 L175.543,226.912 L183.570845,226.912504 L174.036785,245.912504 L164.502725,226.912504 L172.529,226.912 L172.529973,89.6553134 L175.543597,89.6553134 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+            </g>
+            <g id="Group" transform="translate(1008.057221, 0.000000)">
+                <rect id="Rectangle" stroke="#1C446F" stroke-width="3.01362398" fill="#ECECEC" x="0" y="0" width="256.158038" height="90.4087193"></rect>
+                <text id="Alarm-&amp;-Events" font-family="Avenir-Heavy, Avenir" font-size="30.1362398" font-weight="600" letter-spacing="0.209279453" fill="#442E37">
+                    <tspan x="18.2742809" y="55.6158038">Alarm &amp; Events</tspan>
+                </text>
+                <path id="Line" d="M74.5871935,91.1621253 L74.587,228.419 L82.6144414,228.419316 L73.0803815,247.419316 L63.5463215,228.419316 L71.573,228.419 L71.5735695,91.1621253 L74.5871935,91.1621253 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+                <path id="Line" d="M183.077657,91.1621253 L183.077,228.419 L191.104905,228.419316 L181.570845,247.419316 L172.036785,228.419316 L180.064,228.419 L180.064033,91.1621253 L183.077657,91.1621253 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+            </g>
+            <g id="Group" transform="translate(1347.089918, 1.506812)">
+                <rect id="Rectangle" stroke="#1C446F" stroke-width="3.01362398" fill="#ECECEC" x="0" y="0" width="241.089918" height="90.4087193"></rect>
+                <text id="HMI-API" font-family="Avenir-Heavy, Avenir" font-size="30.1362398" font-weight="600" letter-spacing="0.209279453" fill="#442E37">
+                    <tspan x="62.5234892" y="54.1089918">HMI API</tspan>
+                </text>
+                <path id="Line" d="M67.0531335,89.6553134 L67.053,226.912 L75.0803815,226.912504 L65.5463215,245.912504 L56.0122616,226.912504 L64.039,226.912 L64.0395095,89.6553134 L67.0531335,89.6553134 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+                <path id="Line" d="M175.543597,89.6553134 L175.543,226.912 L183.570845,226.912504 L174.036785,245.912504 L164.502725,226.912504 L172.529,226.912 L172.529973,89.6553134 L175.543597,89.6553134 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
